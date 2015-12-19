@@ -1,0 +1,1 @@
+It's a simple project that almost converts all audio formats to MP3 using NAudio

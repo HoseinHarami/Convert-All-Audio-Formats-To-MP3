@@ -1,0 +1,12 @@
+C:\Users\Hosein\Documents\visual studio 2013\Projects\My MP3 Compressor\bin\Debug\My MP3 Compressor.exe.config
+C:\Users\Hosein\Documents\visual studio 2013\Projects\My MP3 Compressor\bin\Debug\My MP3 Compressor.exe
+C:\Users\Hosein\Documents\visual studio 2013\Projects\My MP3 Compressor\bin\Debug\My MP3 Compressor.pdb
+C:\Users\Hosein\Documents\visual studio 2013\Projects\My MP3 Compressor\obj\Debug\My MP3 Compressor.exe
+C:\Users\Hosein\Documents\visual studio 2013\Projects\My MP3 Compressor\obj\Debug\My MP3 Compressor.pdb
+C:\Users\Hosein\Documents\Visual Studio 2013\Projects\My MP3 Compressor\obj\Debug\My MP3 Compressor.csprojResolveAssemblyReference.cache
+C:\Users\Hosein\Documents\Visual Studio 2013\Projects\My MP3 Compressor\bin\Debug\libmp3lame.32.dll
+C:\Users\Hosein\Documents\Visual Studio 2013\Projects\My MP3 Compressor\bin\Debug\libmp3lame.64.dll
+C:\Users\Hosein\Documents\Visual Studio 2013\Projects\My MP3 Compressor\bin\Debug\NAudio.dll
+C:\Users\Hosein\Documents\Visual Studio 2013\Projects\My MP3 Compressor\bin\Debug\NAudio.Lame.dll
+C:\Users\Hosein\Documents\Visual Studio 2013\Projects\My MP3 Compressor\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Hosein\Documents\Visual Studio 2013\Projects\My MP3 Compressor\bin\Debug\NAudio.xml
